@@ -1,0 +1,50 @@
+
+
+.contenedorPrincipalc{
+
+    background-image: url(/public/Imagenes/img-aboutus.jpg);
+    display: flex;
+    height: 100vh;
+    background-size:contain;
+
+}
+
+.contenedorIzquierdo{
+ 
+background-color: rgba(85, 77, 58, 0.461);
+width: 50%;
+align-items: center;
+display: flex;
+
+}
+
+
+.contenedorDere {
+
+    background-color: rgba(85, 77, 58, 0.461);
+    width: 50%;
+    align-items: center;
+   
+
+
+
+}
+
+.contenedorIzquierdo ul{
+
+
+    list-style: none;
+    color: aliceblue;
+    font-size: 20px;
+
+}
+
+.contenedorIzquierdo ul li p span{
+
+    color: orange;
+    font-weight: bold;
+    
+}
+.titulo {
+    font-size: 40px;
+}
